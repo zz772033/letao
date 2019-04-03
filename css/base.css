@@ -1,0 +1,18 @@
+.myheader {
+  background-color: #006699;
+}
+.myheader h1 {
+  color: #fff;
+}
+.myheader .baise {
+  color: #fff;
+}
+.myfooter {
+  background-color: #006699;
+}
+.myfooter .mui-tab-item {
+  color: #fff;
+}
+.myfooter .mui-tab-item.mui-active {
+  color: darkgoldenrod;
+}
